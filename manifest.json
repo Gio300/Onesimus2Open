@@ -1,0 +1,28 @@
+{
+  "name": "JW Assistant",
+  "short_name": "JW Assistant",
+  "description": "Ministry assistant with Bible study, teleprompter, and field service notes",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#4a6fa5",
+  "theme_color": "#4a6fa5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "permissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
+
